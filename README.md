@@ -21,7 +21,7 @@ Quickblog is a full-stack, AI-integrated blogging platform that enables users to
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose
 - **Authentication:** JWT (JSON Web Tokens)
 - **Image Hosting:** ImageKit
-- **AI Integration:** OpenAI API (or similar LLM for content generation)
+- **AI Integration:** Gemini API (or similar LLM for content generation)
 
 ## 🚀 Live Demo
 
